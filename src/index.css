@@ -1,0 +1,4 @@
+@import "tailwindcss";
+.salary-header-left .ag-header-cell-label {
+  justify-content: flex-start !important;
+}

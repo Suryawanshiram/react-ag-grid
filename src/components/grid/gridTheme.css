@@ -1,0 +1,14 @@
+.ag-theme-quartz-dark {
+  --ag-background-color: #0b1220;
+  --ag-header-background-color: #020617;
+  --ag-odd-row-background-color: #020617;
+  --ag-row-hover-color: #1e293b;
+  --ag-selected-row-background-color: #1e293b;
+  --ag-border-color: #1e293b;
+
+  --ag-font-family: Inter, system-ui, -apple-system, sans-serif;
+  --ag-font-size: 14px;
+
+  --ag-header-height: 48px;
+  --ag-row-height: 44px;
+}
